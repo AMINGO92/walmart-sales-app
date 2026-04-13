@@ -1,3 +1,4 @@
+<img width="1463" height="768" alt="app" src="https://github.com/user-attachments/assets/465124d0-48e3-4ca0-92f9-aef944f511cb" />
 # 🛒 Walmart Sales Prediction App
 
 ## 📌 Project Overview
