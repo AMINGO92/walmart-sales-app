@@ -44,5 +44,5 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-## 📸 Output Screenshot
-![App Screenshot](app.png)
+![App Screenshot](https://raw.githubusercontent.com/AMINGO92/walmart-sales-app/main/app.png)
+
