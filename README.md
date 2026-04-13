@@ -41,3 +41,7 @@ It analyzes historical sales data and various factors like CPI, fuel price, holi
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 📸 Output Screenshot
+![App Screenshot](app.png)
